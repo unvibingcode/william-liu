@@ -17,7 +17,7 @@ export default function HomePage() {
           <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center md:items-start">
             <div className="shrink-0">
               <Image
-                src="/warm-portrait-photo-professional-headshot.jpg"
+                src="/HomePageProfileHeadshot.jpg"
                 alt="Your Name"
                 width={180}
                 height={180}

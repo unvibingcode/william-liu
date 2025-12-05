@@ -19,7 +19,7 @@ export default function GalleryPage() {
           <header className="mb-12">
             <h1 className="text-4xl md:text-5xl font-semibold mb-4">Photo Gallery</h1>
             <p className="text-lg text-muted-foreground max-w-xl">
-              A visual journal of moments captured along the way. Click any collection to explore.
+              Click any collection to explore. Adding more as I go!
             </p>
           </header>
 

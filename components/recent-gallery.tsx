@@ -4,12 +4,12 @@ import { ArrowRight } from "lucide-react"
 
 const recentImages = [
   {
-    src: "/mountain-landscape-sunset-photography.jpg",
+    src: "/GalleryMedia/458ChallengeSteeringWheel.jpg",
     alt: "Mountain sunset",
     gallery: "travel",
   },
   {
-    src: "/cozy-coffee-shop-interior-warm-lighting.jpg",
+    src: "/GalleryMedia/LamborghiniDiablo.jpg",
     alt: "Coffee shop",
     gallery: "everyday",
   },

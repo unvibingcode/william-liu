@@ -4,7 +4,7 @@ import { BlogList } from "@/components/blog-list"
 
 export const metadata = {
   title: "Blog - Your Name",
-  description: "Personal reflections, adventures, and thoughts on life, work, and hobbies.",
+  description: "Personal reflections, adventures, and thoughts on life, work, and creative projects.",
 }
 
 export default function BlogPage() {
@@ -17,8 +17,7 @@ export default function BlogPage() {
           <header className="mb-12">
             <h1 className="text-4xl md:text-5xl font-semibold mb-4">Blog</h1>
             <p className="text-lg text-muted-foreground max-w-xl">
-              Personal reflections, adventures, and the occasional deep dive into things I'm learning and thinking
-              about.
+              Personal reflections, adventures, and the occasional deep dive into my recent explorations.
             </p>
           </header>
 

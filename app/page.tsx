@@ -27,10 +27,9 @@ export default function HomePage() {
             </div>
 
             <div className="text-center md:text-left">
-              <h1 className="text-4xl md:text-5xl font-semibold mb-4 text-balance">Hello, I'm Your Name</h1>
+              <h1 className="text-4xl md:text-5xl font-semibold mb-4 text-balance">Hey there, I'm William</h1>
               <p className="text-lg text-muted-foreground leading-relaxed mb-6 max-w-xl">
-                Welcome to my corner of the internet. Here you'll find stories from my life, explorations of my hobbies,
-                photography from my adventures, and a bit about my professional journey.
+                Welcome to my corner of the internet! Take a peek, you'll find some tidbits about my life journey, projects, photography, and more.
               </p>
               <div className="flex flex-wrap gap-4 justify-center md:justify-start">
                 <Link
@@ -64,12 +63,12 @@ export default function HomePage() {
         <section className="max-w-4xl mx-auto px-6 py-12">
           <div className="grid md:grid-cols-3 gap-6">
             <Link
-              href="/hobbies"
+              href="/projects"
               className="group p-6 bg-card border border-border rounded-xl hover:border-primary/50 transition-colors"
             >
-              <h3 className="font-semibold mb-2 group-hover:text-primary transition-colors">Hobbies & Projects</h3>
+              <h3 className="font-semibold mb-2 group-hover:text-primary transition-colors">Projects</h3>
               <p className="text-sm text-muted-foreground">
-                Explore my creative pursuits, from photography to painting to whatever I'm learning next.
+                Explore my creative and technical work, from photography to art to outdoor adventures.
               </p>
             </Link>
 

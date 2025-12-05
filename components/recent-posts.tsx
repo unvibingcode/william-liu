@@ -5,7 +5,7 @@ const recentPosts = [
   {
     slug: "finding-balance",
     title: "Finding Balance in a Busy World",
-    excerpt: "Reflections on managing work, hobbies, and personal time in the modern age.",
+    excerpt: "Reflections on managing work, projects, and personal time in the modern age.",
     date: "December 1, 2024",
     category: "Reflections",
   },
@@ -21,7 +21,7 @@ const recentPosts = [
     title: "Starting a New Creative Project",
     excerpt: "Why I decided to pick up watercolors and what I've learned so far.",
     date: "November 15, 2024",
-    category: "Hobbies",
+    category: "Projects",
   },
 ]
 

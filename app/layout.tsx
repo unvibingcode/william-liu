@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Your Name - Life & Work",
-  description: "A personal space for stories, hobbies, and professional work",
+  description: "A personal space for stories, projects, and professional work",
 }
 
 export default function RootLayout({

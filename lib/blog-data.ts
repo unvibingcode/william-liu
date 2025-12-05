@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "finding-balance",
     title: "Finding Balance in a Busy World",
-    excerpt: "Reflections on managing work, hobbies, and personal time in the modern age.",
+    excerpt: "Reflections on managing work, projects, and personal time in the modern age.",
     content: `
 Life has a way of filling every available moment with something urgent. Emails pile up, deadlines loom, and before you know it, another week has passed without a single moment of genuine rest.
 
@@ -22,7 +22,7 @@ I've been thinking a lot about balance lately—not the perfectly curated, Insta
 
 ## What I've Learned
 
-The biggest shift came when I stopped treating balance as a destination and started seeing it as a practice. Some weeks, work demands more. Other weeks, I give more to my hobbies or relationships. The key is awareness—noticing when things tip too far in one direction.
+The biggest shift came when I stopped treating balance as a destination and started seeing it as a practice. Some weeks, work demands more. Other weeks, I give more to my projects or relationships. The key is awareness—noticing when things tip too far in one direction.
 
 ## Small Changes, Big Impact
 
@@ -105,7 +105,7 @@ I'm nowhere near good, but I'm enjoying the journey. I've signed up for a local 
 Sometimes the best projects are the ones you start simply because they call to you.
     `,
     date: "November 15, 2024",
-    category: "Hobbies",
+    category: "Projects",
     tags: ["art", "watercolor", "creativity", "learning"],
   },
   {

@@ -1,4 +1,4 @@
-export interface HobbyProject {
+export interface ProjectItem {
   id: string
   title: string
   description: string
@@ -7,17 +7,17 @@ export interface HobbyProject {
   date?: string
 }
 
-export interface Hobby {
+export interface Project {
   slug: string
   name: string
   description: string
   longDescription: string
   icon: string
   coverImage: string
-  projects: HobbyProject[]
+  projects: ProjectItem[]
 }
 
-export const hobbies: Hobby[] = [
+export const projects: Project[] = [
   {
     slug: "photography",
     name: "Photography",
@@ -135,6 +135,6 @@ export const hobbies: Hobby[] = [
   },
 ]
 
-export function getHobbyBySlug(slug: string): Hobby | undefined {
-  return hobbies.find((hobby) => hobby.slug === slug)
+export function getProjectBySlug(slug: string): Project | undefined {
+  return projects.find((project) => project.slug === slug)
 }

@@ -3,11 +3,11 @@ import { ArrowRight } from "lucide-react"
 
 const recentPosts = [
   {
-    slug: "finding-balance",
-    title: "Finding Balance in a Busy World",
+    slug: "learning-to-code",
+    title: "How I learned to Code, Completely From Scratch",
     excerpt: "Reflections on managing work, projects, and personal time in the modern age.",
-    date: "December 1, 2024",
-    category: "Reflections",
+    date: "December 9, 2025",
+    category: "Projects",
   },
   {
     slug: "weekend-hike",
